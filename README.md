@@ -10,6 +10,8 @@ This repository holds code samples for using AWS lambda function to publish virt
 - Create a Trigger for Lambda Function via API Gateway
 - Configure IoT Button click tovoke End point configured in API Gateway.
 
+![](Event_flow.png)
+
 ### Prerequisistes
 Hardware needed: 
 - AWS IoT Enterprise Button
